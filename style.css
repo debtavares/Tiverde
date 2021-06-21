@@ -1,0 +1,66 @@
+#header {
+    background: rgb(98,180,46);
+    height: auto;
+    padding: 100px 100px
+}
+
+
+body{
+  background-color:rgb(254,253,247);
+  font-family: Segoe UI;
+}
+
+h1{
+text-align: center;
+  color:rgb(255, 255, 255);
+  font-family: "Jost", sans-serif;
+
+}
+
+h3{
+  color:green;
+  text-align: center;
+  font-family: "Jost", sans-serif;
+}
+
+h4{
+  text-align: center;
+  color:rgb(160, 241, 110);
+  font-family: "Jost", sans-serif;
+}
+
+p{
+  color:#404040;
+  font-size: 18px;
+}
+
+img{
+  width: 100%;
+}
+
+section{
+  max-width:60%;
+  margin: 0 auto;
+}
+
+div.box {
+	display: inline-block;
+  color:#404040;
+  max-width:200px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+  padding: 30px;
+  text-align: center;
+}
+
+ul{
+  color:#404040;
+  font-size: 18px;
+}
+
+#foot {
+    background: rgb(98,180,46);
+    height: auto;
+    padding: 15px 15px
+}
